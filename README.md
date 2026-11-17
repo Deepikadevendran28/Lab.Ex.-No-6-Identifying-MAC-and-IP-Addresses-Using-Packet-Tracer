@@ -49,6 +49,20 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 ________________________________________
 # Output (Screenshots)
 •	PDU details for local communication<br>
+<img width="1366" height="720" alt="Screenshot 2026-11-17 152245" src="https://github.com/user-attachments/assets/8b9eedea-5d1d-4457-9b9a-dfc863f9b141" />
+
+<img width="1359" height="729" alt="Screenshot 2026-11-17 154646" src="https://github.com/user-attachments/assets/bc9cc59d-be7a-4631-ae4a-aee7b6f3eb3a" />
+
+<img width="1359" height="729" alt="Screenshot 2026-11-17 155350" src="https://github.com/user-attachments/assets/4e0be086-272c-4c2d-a614-afa08be76a51" />
+
+
+<img width="1359" height="729" alt="Screenshot 2026-11-17 160230" src="https://github.com/user-attachments/assets/7ffb3e40-bb1c-4ee9-bfaa-b45ccd420bce" />
+
+
+
+
+
+
 •	PDU details for remote communication<br>
 •	Tables showing MAC/IP changes through each device<br>
 ________________________________________
